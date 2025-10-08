@@ -49,7 +49,11 @@ Write the detailed procedure here
 
 **RTL Schematic**
 
+<img width="1830" height="673" alt="rtl 4" src="https://github.com/user-attachments/assets/08b334d0-631b-4f08-b702-c87221b32d6e" />
+
 **Output Timing Waveform**
+
+<img width="1918" height="497" alt="flow dia 4" src="https://github.com/user-attachments/assets/d8593f78-dcf1-4934-a3f3-097e51df8015" />
 
 **Result:**
 
